@@ -162,8 +162,8 @@ input {
 	border-radius: 30px;
 }
 .wellcome2 {
-	padding-top: 137px;
-	padding-bottom: 187px;
+	padding-top: 100x;
+	padding-bottom: 100px;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
